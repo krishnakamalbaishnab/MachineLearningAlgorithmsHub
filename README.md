@@ -71,4 +71,4 @@ Mathematical details and proofs are provided for a deeper understanding of each 
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request. Make sure to follow the existing code style and include necessary documentation.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under an open license. Feel free to use, modify, and distribute the code as you see fit. Please give credit to the original author, Krishna Kamal Baishnab, when using the content in any public or private project
